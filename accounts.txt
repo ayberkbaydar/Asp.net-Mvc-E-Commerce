@@ -1,0 +1,8 @@
+admin@eticaret.com	admin
+ali@eticaret.com	1
+ayse@eticaret.com	1
+
+
+admin login panel
+/admin/adminlogin
+
